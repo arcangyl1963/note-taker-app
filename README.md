@@ -18,6 +18,8 @@ The Note Taker App makes it simple and easy for the user to create, view, and de
 
 [Usage](#usage)<br>
 
+[Deployed App Link](#deployed-app)<br>
+
 [License](#license)<br>
 
 [Contributors](#contributors)<br>
@@ -34,7 +36,7 @@ My files can be accessed in the repository [HERE](https://github.com/arcangyl196
 
 The image below shows the repository where my project files are located:
 
-![Team Profile Generator Repository](./dist/images/team-profile-generator-repo.png)
+![Note Taker App Repository](./public/assets/images/note-taker-app_gitrepo.png)
 
 Install the application by cloning the repo from the link above or by downloading the files to your local drive.
 
@@ -71,7 +73,7 @@ node server.js
 
 The application can be accessed at http;//localhost:8080.
 
-## Deployed link:
+## Deployed-app:
 
 The Heroku deployed application can be accessed at the link below:
 
